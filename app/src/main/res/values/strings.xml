@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Act10IMC</string>
+    <string name="mujer">Mujer</string>
+    <string name="hombre">Hombre</string>
+    <string name="altura">Altura</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="peso">Peso</string>
+    <string name="edad">Edad</string>
+    <string name="back">RE-CALCULAR</string>
+    <string name="atletico">Atlético</string>
+    <string name="corpulento">Corpulento</string>
+    <string name="normal">Normal</string>
+    <string name="delgado">Delgado</string>
+    <string name="tu_resultado">Tu resultado</string>
+</resources>
